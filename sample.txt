@@ -1,0 +1,10 @@
+Hello I am writing print("HEll0")
+
+# file = open('sample.txt','w')
+# file.write('Hello I am writing')
+# file.close()
+
+# file = open('sample.txt','r')
+# content = file.read()
+# file.close()
+# print(f"Content of file is : {content}")
